@@ -1,5 +1,5 @@
-# Frontend Boilerplate with React, Redux & TypeScript using server json for Api call
-
+# Frontend Boilerplate with React, Redux & TypeScript using Server json for Api call
+https://github.com/typicode/json-server#custom-routes-example
 A react-redux-typescript-boilerplat.
 Ideal for creating React apps.
 
