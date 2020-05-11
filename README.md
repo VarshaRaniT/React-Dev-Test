@@ -1,7 +1,7 @@
 # Frontend Boilerplate with React, Redux & TypeScript
 
 A react-redux-typescript-boilerplat.
-Ideal for creating React apps from the scratch.
+Ideal for creating React apps.
 
 ## Contains
 
