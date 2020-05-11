@@ -1,0 +1,74 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alex",
+      "department_id": 1,
+      "address": "London",
+      "password": "Alex"
+    },
+    {
+      "id": 2,
+      "name": "Cara York",
+      "department_id": 2,
+      "address": "Texas",
+      "password": "Cara York"
+    },
+    {
+      "id": 3,
+      "name": "Adrienne Talley",
+      "department_id": 1,
+      "address": "New York",
+      "password": "Adrienne Talley"
+    },
+    {
+      "id": 4,
+      "name": "Aanya Frye",
+      "department_id": 2,
+      "address": "LA",
+      "password": "Aanya Frye"
+    },
+    {
+      "id": 5,
+      "name": "Manha Esparza",
+      "department_id": 3,
+      "address": "London",
+      "password": "Manha Esparza"
+    },
+    {
+      "id": 6,
+      "name": "Varsha Thakur",
+      "department_id": 2,
+      "address": "India",
+      "password": "Varsha Thakur"
+    },
+    {
+      "name": "Lilly",
+      "password": "12345678",
+      "department_id": "1",
+      "address": "123,texas",
+      "id": 7
+    }
+  ],
+  "departments": [
+    {
+      "id": 1,
+      "name": "Finance"
+    },
+    {
+      "id": 2,
+      "name": "Information Technology"
+    },
+    {
+      "id": 3,
+      "name": "Embedded Systems"
+    }
+  ],
+  "admins": [
+    {
+      "id": 1,
+      "name": "Admin",
+      "password": "Admin"
+    }
+  ]
+}
