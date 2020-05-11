@@ -1,10 +1,6 @@
 # Frontend Boilerplate with React, Redux & TypeScript
 
 A react-redux-typescript-boilerplat.
-
-Note that this project does not include **Server-Side Rendering**, **Static code analysis**, **Testing Frameworks**
-If needed, please fork this repository and add your own that meets your requirements.
-
 Ideal for creating React apps from the scratch.
 
 ## Contains
