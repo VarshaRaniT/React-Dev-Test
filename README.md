@@ -1,4 +1,4 @@
-# Frontend Boilerplate with React, Redux & TypeScript
+# Frontend Boilerplate with React, Redux & TypeScript using server json for Api call
 
 A react-redux-typescript-boilerplat.
 Ideal for creating React apps.
