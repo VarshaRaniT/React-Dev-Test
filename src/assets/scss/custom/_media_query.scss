@@ -1,0 +1,74 @@
+
+// media query for tab view
+@media (min-width: 300px) and (max-width: 991px) {
+    .custom__form{
+        height: auto;
+        .inner__form{
+            margin-top: 100px;
+            padding: 30px;
+        }
+    }
+    }
+    @media (min-width: 320px) and (max-width: 767px) {
+        h1 {
+            font-size: 28px;
+            
+        }
+    }
+    @media (min-width: 320px) and (max-width: 575px) {
+        .custom__form{
+            height: auto;
+            .inner__form{
+                padding: 20px;
+                max-width: 400px;
+                margin-top: 80px;
+            }
+        }
+        .navlink__wrap a {
+            margin: 0 5px;
+            span{
+                font-size: 14px;
+            }
+        }
+        .ln__btn {
+            padding: 6px 8px;
+            font-size: 12px;
+        }
+        .box__wrap > div {
+            font-size: 32px;
+            padding: 0 15px;
+        }
+        body .custom__container {
+            padding: 60px 30px;
+        }
+        button, .btn__custom{
+            font-size: 12px;
+        }
+        .swal-title {
+            font-size: 18px;
+        }
+        .custom__table__main__wrap{
+            width: 90%;
+        }
+        .custom__table__main__wrap th, .custom__table__main__wrap td {
+            font-size: 12px;
+            padding: 10px;
+        }
+    }
+    @media (min-width: 320px) and (max-width: 400px) {
+        .custom__form{
+            .inner__form{
+               width: 300px;
+            }
+        }
+        a.btn__link {
+            top: 10px;
+            right: 20px;
+            font-size: 14px;
+            font-weight: 600;
+            color: #FF4161;
+        }
+        .box__wrap {
+            height: 250px;
+        }
+    }
