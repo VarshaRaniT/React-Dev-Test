@@ -1,5 +1,9 @@
 # Frontend Boilerplate with React, Redux & TypeScript using Server json for Api call
 https://github.com/typicode/json-server#custom-routes-example
+
+#instruction for run json server
+go to terminal open fakeapi folder and run command json-server --watch db.json
+
 A react-redux-typescript-boilerplat.
 Ideal for creating React apps.
 
